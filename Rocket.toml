@@ -1,0 +1,5 @@
+[global]
+cli_colors = false
+
+[global.databases]
+test = { url = ":memory:" }
